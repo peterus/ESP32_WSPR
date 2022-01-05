@@ -1,6 +1,9 @@
 
 #include "SigGen.h"
 
+constexpr uint32_t _denom         = 1000;
+constexpr uint8_t  OUTPUT_CHANNEL = 0;
+
 SigGen::SigGen() {
 }
 
